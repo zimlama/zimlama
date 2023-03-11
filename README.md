@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimlama&label=Profile%20views&color=0e75b6&style=flat" alt="zimlama" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zimlama" alt="zimlama" /></a> </p>
-
 - 🔭 I’m currently working on [Ibera Hotels](https://github.com/zimlama/iberahotelsapi)
 
 - 🌱 I’m currently learning **AWS Cloud Associate**
@@ -28,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zimlama&show_icons=true&locale=en&layout=compact" alt="zimlama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zimlama&show_icons=true&locale=en" alt="zimlama" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zimlama&" alt="zimlama" /></p>
-
