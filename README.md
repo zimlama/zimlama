@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimlama&label=Profile%20views&color=0e75b6&style=flat" alt="zimlama" /> </p>
 
-- 🔭 I’m currently working on [Ibera Hotels](https://github.com/zimlama/iberahotelsapi)
+- 🔭 I’m currently working on [BookScape](https://github.com/zimlama/BookScapeFront)
 
-- 🌱 I’m currently learning **AWS Cloud Associate**
+- 🌱 I’m currently learning **Forintet NSE4**
 
 - 💬 Ask me about **React, JavaScript, Node, Python, Pandas**
 
