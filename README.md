@@ -1,21 +1,41 @@
-<h1 align="center">Hi 👋, I'm Leonardo Mejia</h1>
-<h3 align="center">Enthusiasm is the catalyst to empower knowledge, I'm excited to work as a web developer.</h3>
+<h1 align="center">Leonardo Mejía</h1>
+<h3 align="center">Senior Cybersecurity & SD-WAN Architect · 15+ years</h3>
+<p align="center">Building Zero Trust networks at LATAM enterprise scale</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zimlama&label=Profile%20views&color=0e75b6&style=flat" alt="zimlama" /> </p>
+---
 
-- 🔭 I’m currently working on [BookScape](https://github.com/zimlama/BookScapeFront)
+### 🛡️ What I build
 
-- 🌱 I’m currently learning **AWS Cloud Security Speciality**
+- **Zero Trust architectures** for regulated enterprises (financial, insurance, telco)
+- **Enterprise SD-WAN** — 100+ Fortinet projects · 500+ edges each (Claro Colombia)
+- **NDR platforms** — 500+ Darktrace vSensors · 60K+ endpoints (Bancolombia)
+- **AWS multi-account security** — Landing zones · SCPs · guardrails · Security Hub
+- **Network automation** — Python + Django + vManage REST API · 8,500 vEdges pre-staged for Aldi / Telefónica International
 
-- 💬 Ask me about **React, JavaScript, Node, Python, Pandas**
+### 🧰 Stack
 
-- 📫 How to reach me **lm811120@gmail.com**
+**Cloud Security** — AWS (GuardDuty · Security Hub · KMS · WAF · Macie · IAM Identity Center) · Terraform · AWS CDK
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardomejia/](https://www.linkedin.com/in/leonardomejia/)
+**Network** — Fortinet (FortiGate · FortiManager · FortiAnalyzer · FortiSandbox) · Cisco Viptela · Aruba ClearPass NAC
 
-- ⚡ Fun fact **Mountain Bike Passionate**
+**Detection & Response** — Darktrace NDR · LogRhythm SIEM · Elastic Stack · MITRE ATT&CK
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leonardomejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardomejia" height="30" width="40" /></a>
-</p>
+**Languages** — Python (Django · Pandas · REST) · JavaScript · Bash
+
+**Compliance** — NIST 800-53 · ISO 27001 · PCI-DSS · SOC 2 · SFC Circular 007/2018
+
+### 📍 Now
+
+- Cyber Security Specialist · **Tigo Colombia / Bancolombia**
+- AWS Security Specialty *(In Progress)*
+- Open to **100% remote senior IC roles** across the Americas
+
+### 📫 Reach me
+
+- Email: **lm811120@gmail.com**
+- LinkedIn: [linkedin.com/in/leonardomejia](https://linkedin.com/in/leonardomejia)
+- Codewars: [codewars.com/users/zimlama](https://codewars.com/users/zimlama)
+
+---
+
+<sub>⚡ Fun fact: Mountain Bike enthusiast</sub>
